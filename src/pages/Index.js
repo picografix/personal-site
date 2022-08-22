@@ -13,12 +13,11 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            This website is repository for my projects, resume and random facts.
           </p>
         </div>
       </header>
-      <p>Welcome to our website. Please feel free to read more <Link to="/about">about me</Link>,
+      <p>Please feel free to read more<Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}

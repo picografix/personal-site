@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Gauransh. I like building innovative products.
+      <p>Hi, I&apos;m Gauransh. I design, I dream and I code.
         I am a senior undergradute at <a href="https://iitd.ac.in">IIT Delhi</a>, and
         upcoming Member of Technical Staff at <a href="https://adobe.com">Adobe Systems</a> India.
       </p>
@@ -32,7 +32,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Gauransh Soni <Link to="/">picografix.github.io</Link>.</p>
     </section>
   </section>
 );
