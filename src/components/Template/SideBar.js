@@ -13,13 +13,13 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Gauransh Soni</h2>
-        <p><a href="mailto:gauranshiitd@gmail.com">gauranshiitd@gmail</a></p>
+        <p><a href="mailto:gauranshiitd@gmail.com">gauranshiitd@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Gauransh. I like building innovative products.
+      <p>Hi, I&apos;m Gauransh. I design, I dream & I code.
         I am a senior undergradute at <a href="https://iitd.ac.in">IIT Delhi</a>, and
         upcoming Member of Technical Staff at <a href="https://adobe.com">Adobe Systems</a> India.
       </p>
