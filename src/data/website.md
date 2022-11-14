@@ -1,4 +1,3 @@
-
 # Intro
 
 Hey there, I am a senior undergraduate at [Indian Institute of Technology Delhi](https://home.iitd.ac.in/), I love to build products that serve humanity. I am particularly interested to work towards developing and designing products. Apart from this I am into content creation and love capturing my life and sharing it with the world. If you think I can be helpful to you feel free to get in touch.
@@ -19,10 +18,10 @@ I recently completed my internship at [Adobe Systems](https://www.adobe.com/in/)
 
 - I am from originally from Jhalawar, Rajasthan. I have since lived in Kota and Delhi.
 
-
 # Fun fact
 
 - I can have random ideas about anything and feel like its the best idea in the world which obviously isn't.
+
 # I dream of
 
 - always finding inspiration.

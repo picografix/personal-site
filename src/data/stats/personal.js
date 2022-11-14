@@ -1,11 +1,11 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from "react";
 
 const Age = () => {
   const [age, setAge] = useState();
 
   const tick = () => {
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('2002-02-12T01:00:00');
+    const birthTime = new Date("2002-02-12T01:00:00");
     setAge(((Date.now() - birthTime) / divisor).toFixed(11));
   };
 
@@ -20,14 +20,14 @@ const Age = () => {
 
 const data = [
   {
-    key: 'age',
-    label: 'Current age',
+    key: "age",
+    label: "Current age",
     value: <Age />,
   },
   {
-    key: 'location',
-    label: 'Current city',
-    value: 'New Delhi, IN',
+    key: "location",
+    label: "Current city",
+    value: "New Delhi, IN",
   },
 ];
 
