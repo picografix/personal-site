@@ -1,7 +1,7 @@
 
 # Intro
 
-Hey there, I am a senior undergraduate at [Indian Institute of Technology Delhi](https://home.iitd.ac.in/), I love to build products that serve humanity. I am particularly interested to work towards developing and designing products. Apart from this I am into content creation and love capturing my life and sharing it with the world. If you think I can be helpful to you feel free to get in touch. 
+Hey there, I am a senior undergraduate at [Indian Institute of Technology Delhi](https://home.iitd.ac.in/), I love to build products that serve humanity. I am particularly interested to work towards developing and designing products. Apart from this I am into content creation and love capturing my life and sharing it with the world. If you think I can be helpful to you feel free to get in touch.
 
 # Currently
 
@@ -9,7 +9,7 @@ I recently completed my internship at [Adobe Systems](https://www.adobe.com/in/)
 
 # Likes and facts
 
-- [Photography and Filmaking](https://www.instagram.com/gauransh.soni/) 
+- [Photography and Filmaking](https://www.instagram.com/gauransh.soni/)
 - Travelling (Although I haven't travelled a lot but eventually I will)
 - I recently discovered reading is something which gives me inner pleasure and since then I have read 10-12 books (non fiction)
 - Computer games (Fifa, Valorant)

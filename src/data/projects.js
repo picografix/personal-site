@@ -1,7 +1,7 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
+    title: 'Data logger circuit',
     subtitle: '2015 BVP Hackathon',
     image: '/images/projects/nearestdollar.jpg',
     date: '2015-11-20',
@@ -12,7 +12,18 @@ const data = [
       + 'the charity of your choice.',
   },
   {
-    title: 'Harvest',
+    title: 'Project Proposal',
+    subtitle: '2015 BVP Hackathon',
+    image: '/images/projects/nearestdollar.jpg',
+    date: '2015-11-20',
+    desc:
+      'Built for a social impact hackathon. '
+      + 'NearestDollar connected to your bank accounts, credit cards, '
+      + 'or debit cards and rounded up your purchases to donate the balance to '
+      + 'the charity of your choice.',
+  },
+  {
+    title: 'Sensors and output devices IOT',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://devpost.com/software/harvest',
     image: '/images/projects/harvest.jpg',
@@ -23,7 +34,7 @@ const data = [
       + 'and nutrient deficiencies at an affordable price for the developing world.',
   },
   {
-    title: 'Space Potato',
+    title: 'Microcontroller Programming',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
     link: 'http://www.spacepotato.org',
     image: '/images/projects/spacepotato.jpg',
@@ -34,9 +45,10 @@ const data = [
       + 'You can email me for a copy.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
+    title: 'Personal Portfolio',
+    subtitle: 'A website for projects, resume and facts',
+    image: '/images/projects/portfolio.png',
+    link: '/project-website',
     date: '2015-05-15',
     desc:
       'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
