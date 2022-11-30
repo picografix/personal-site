@@ -14,7 +14,7 @@ const data = [
   {
     title: 'Project Proposal',
     subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
+    image: '/images/projects/projectProposal.png',
     date: '2015-11-20',
     desc:
       'Built for a social impact hackathon. '

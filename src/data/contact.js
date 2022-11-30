@@ -29,11 +29,6 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/michael-d-angelo',
-    label: 'Angel List',
-    icon: faAngellist,
-  },
-  {
     link: 'https://twitter.com/dangelosaurus',
     label: 'Twitter',
     icon: faTwitter,
