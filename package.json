@@ -1,7 +1,7 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "http://privateweb.iitd.ac.in/~tt1190975/",
+  "homepage": "/",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
     "dayjs": "^1.11.3",
     "gh-pages": "^4.0.0",
     "prop-types": "^15.8.1",
-    "puppeteer": "^19.2.2",
+    "puppeteer": "^19.3.0",
     "raw.macro": "^0.4.2",
     "react": "^17.0.1",
     "react-burger-menu": "^3.0.8",

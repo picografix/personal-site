@@ -6,7 +6,7 @@ import raw from 'raw.macro';
 import Main from '../layouts/Main';
 
 // uses babel to load contents of file
-const markdown = raw('../data/website.md');
+const markdown = raw('../data/datalogger.md');
 
 const count = markdown.split(/\s+/)
   .map((s) => s.replace(/\W/g, ''))
@@ -15,15 +15,15 @@ const count = markdown.split(/\s+/)
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
-const website = () => (
+const datalogger = () => (
   <Main
-    title="website-project"
-    description="Learn about personal portfolio"
+    title="datalogger-project"
+    description="Learn about datalogger project"
   >
     <article className="post markdown" id="about">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/~tt1190975/project-website">Persona portfolio</Link></h2>
+          <h2 data-testid="heading"><Link to="/~tt1190975/project-datalogger">Datalogger assignment</Link></h2>
           <p>(in about {count} words)</p>
         </div>
       </header>
@@ -38,4 +38,4 @@ const website = () => (
   </Main>
 );
 
-export default website;
+export default datalogger;

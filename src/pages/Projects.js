@@ -12,7 +12,7 @@ const Projects = () => (
     <article className="post" id="projects">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/projects">Projects-DSL</Link></h2>
+          <h2 data-testid="heading"><Link to="/projects">Projects DSL</Link></h2>
           <p>A selection of projects I have made as a part of course DSL810</p>
         </div>
       </header>
