@@ -1,23 +1,22 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Data logger circuit',
-    link: '/project-datalogger',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/DataLoggerCircuit.jpg',
-    date: '2022-10-25',
+    title: "Data logger circuit",
+    link: "/project-datalogger",
+    subtitle: "2015 BVP Hackathon",
+    image: "/images/projects/DataLoggerCircuit.jpg",
+    date: "2022-10-25",
     desc:
-      'A data logger made using ESP8266 Node MCU wifi module and Neo6M GPS Module '
-      + 'Connects using wifi to a personal/public hotspot to upload data to realtime database on firebase ',
+      "A data logger made using ESP8266 Node MCU wifi module and Neo6M GPS Module " +
+      "Connects using wifi to a personal/public hotspot to upload data to realtime database on firebase ",
   },
   {
-    title: 'Project Proposal',
-    subtitle: 'Project ideation and planning for the course',
-    link: '/proposal',
-    image: '/images/projects/projectProposal.png',
-    date: '2022-10-05',
-    desc:
-      'Midterm proposal for DSL810',
+    title: "Project Proposal",
+    subtitle: "Project ideation and planning for the course",
+    link: "/proposal",
+    image: "/images/projects/projectProposal.png",
+    date: "2022-10-05",
+    desc: "Midterm proposal for DSL810",
   },
   // {
   //   title: 'Sensors and output devices IOT',
@@ -38,13 +37,12 @@ const data = [
   //     + 'You can email me for a copy.',
   // },
   {
-    title: 'Personal Portfolio',
-    subtitle: 'A website for projects, resume and facts',
-    image: '/images/projects/portfolio.png',
-    link: '/project-website',
-    date: '2022-09-12',
-    desc:
-      'Personal portfolio website',
+    title: "Personal Portfolio",
+    subtitle: "A website for projects, resume and facts",
+    image: "/images/projects/portfolio.png",
+    link: "/project-website",
+    date: "2022-09-12",
+    desc: "Personal portfolio website",
   },
 ];
 
