@@ -24,6 +24,19 @@ const routes = [
     label: 'Contact',
     path: '/contact',
   },
+  {
+    label: 'website',
+    path: '/project-website',
+  },
+  {
+    label: 'datalogger',
+    path: '/project-datalogger',
+  },
+  {
+    label: 'mid-term',
+    path: '/project-proposal',
+  },
+
 ];
 
 export default routes;

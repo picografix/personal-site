@@ -23,7 +23,7 @@ const datalogger = () => (
     <article className="post markdown" id="about">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/~tt1190975/project-datalogger">Datalogger assignment</Link></h2>
+          <h2 data-testid="heading"><Link to="/project-datalogger">Datalogger assignment</Link></h2>
           <p>(in about {count} words)</p>
         </div>
       </header>

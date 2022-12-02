@@ -3,7 +3,7 @@
 
 ## Circuit Diagram
 
-![Schematic Diagram for circuit](~tt1190975/images/projects/DataLoggerCircuit.jpg)
+![Schematic Diagram for circuit](/personal-site/images/projects/circuit.jpeg)
 
 
 ## Code
@@ -134,5 +134,5 @@
 
 
 ## Actual Figure
-![Actual Circuit made](~tt1190975/images/projects/DataLoggerCircuit.jpg)
+![Actual Circuit made](/personal-site/images/projects/DataLoggerCircuit.jpg)
 ## Video

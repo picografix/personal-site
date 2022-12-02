@@ -23,7 +23,7 @@ const proposal = () => (
     <article className="post markdown" id="about">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/~tt1190975/proposal">Project proposal</Link></h2>
+          <h2 data-testid="heading"><Link to="/project-proposal">Project proposal</Link></h2>
           <p>(in about {count} words)</p>
         </div>
       </header>

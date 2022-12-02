@@ -23,7 +23,7 @@ const website = () => (
     <article className="post markdown" id="about">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/~tt1190975/project-website">Persona portfolio</Link></h2>
+          <h2 data-testid="heading"><Link to="/project-website">Persona portfolio</Link></h2>
           <p>(in about {count} words)</p>
         </div>
       </header>

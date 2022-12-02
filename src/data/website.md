@@ -1,5 +1,5 @@
 Personal Portfolio Website
-![Ideation](/images/projects/purpose.png)
+![Ideation](personal-site/images/projects/purpose.png)
 
 The sole purpose of this website to display information about me, dividing the information into different channels I decided the sections to serve the purpose of this website.
 
